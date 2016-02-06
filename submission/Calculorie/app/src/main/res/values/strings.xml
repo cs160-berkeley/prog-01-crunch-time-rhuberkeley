@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculorie</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="exercise">
+        <item>Push-ups</item>
+        <item>Sit-ups</item>
+        <item>Jumping jacks (mins)</item>
+        <item>Jogging (mins)</item>
+        <item>Squats</item>
+        <item>Leg-lifts (mins)</item>
+        <item>Planks (mins)</item>
+        <item>Pullups</item>
+        <item>Cycling (mins)</item>
+        <item>Walking (mins)</item>
+        <item>Swimming (mins)</item>
+        <item>Stairclimbing (mins)</item>
+        <item>Calories</item>
+    </string-array>
+</resources>
